@@ -20,7 +20,7 @@ header {
 }
 
 main {
-    min-height: 5;
+    min-height: 5px;
 }
 
 main img {
@@ -41,5 +41,5 @@ footer {
 
     .profile {
         box-shadow: .25rem .25rem .25rem #ccaabb;
-        border: 1px solid #777;}
+        border: 1px solid #777;
 }
