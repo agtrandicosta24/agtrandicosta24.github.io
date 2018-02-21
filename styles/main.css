@@ -3,14 +3,16 @@
 
 /* * is a wildcard referring to all elements. */
 * { margin: 0; box-sizing: border-box; }
+body {
+    background-color: darkgrey;
+}
 
 body {
     font-size: 16px;
     line-height: 32px;
     font-family: cursive;
-    color: pink;
-    background-color: ;
-}
+    color: ;
+    }
 
 h1 {
     font-size: 2.5rem;
@@ -31,7 +33,7 @@ header, main, footer {
 
 header, footer, footer a {
     text-align: center;
-    background-color: cadetblue;
+    background-color: dodgerblue;
     color: blanchedalmond;
 }
 
